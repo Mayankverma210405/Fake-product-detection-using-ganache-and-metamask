@@ -39,6 +39,3 @@ A decentralized application (DApp) that uses blockchain technology to detect fak
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
-```bash
-git clone https://github.com/A4ANK/Fake-Product-Identification.git
-cd Fake-Product-Identification
