@@ -70,4 +70,7 @@ A decentralized application (DApp) that uses blockchain technology to detect fak
 With Ganache running and MetaMask connected to the local network:
 
 ```bash
+npm install
 truffle migrate
+truffle compile
+npm run dev
